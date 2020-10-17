@@ -84,7 +84,7 @@ namespace Datos
             persona.Departamento = (string)dataReader["Departamento"];
             persona.Ciudad = (string)dataReader["Ciudad"];
             persona.Tipo = (string)dataReader["Tipo"];
-            persona.Valor = (decimal)dataReader["Valor"];
+            persona.Valor = (int)dataReader["Valor"];
             persona.Fecha = (string)dataReader["Fecha"];
             return persona;
         }

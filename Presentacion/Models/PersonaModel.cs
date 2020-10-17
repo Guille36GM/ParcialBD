@@ -12,7 +12,7 @@ namespace Presentacion.Models
         public string Departamento{ get; set; }
         public string Ciudad { get; set; }    
         public string Tipo { get; set; }    
-        public decimal Valor { get; set; }
+        public int Valor { get; set; }
         public string Fecha { get; set; }
      }
     public class PersonaViewModel : PersonaInputModel {
