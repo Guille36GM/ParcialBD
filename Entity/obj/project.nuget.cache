@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2aNRcgl0EU0YJJvMKRn/0DBM03zEQxNmNQmYg4ktVvb4a9XpCE9POTZVFWxB1RlsBcz9/2jkB8d4u0Of2UIAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Usuarios\\Escritorio\\2020-1\\2020-2\\Programacion web\\ParcialBD\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guille\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Guille\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

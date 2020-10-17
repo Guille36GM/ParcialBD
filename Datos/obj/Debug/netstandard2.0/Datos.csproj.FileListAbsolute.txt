@@ -1,0 +1,12 @@
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\bin\Debug\netstandard2.0\Datos.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\bin\Debug\netstandard2.0\Datos.pdb
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\bin\Debug\netstandard2.0\Entity.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\bin\Debug\netstandard2.0\Entity.pdb
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Datos\obj\Debug\netstandard2.0\Datos.pdb

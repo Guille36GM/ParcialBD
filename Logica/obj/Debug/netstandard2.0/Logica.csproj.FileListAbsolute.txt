@@ -1,0 +1,14 @@
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Logica.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Logica.pdb
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Datos.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Entity.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Datos.pdb
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\bin\Debug\netstandard2.0\Entity.pdb
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Logica\obj\Debug\netstandard2.0\Logica.pdb

@@ -1,0 +1,9 @@
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\bin\Debug\netstandard2.0\Entity.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\bin\Debug\netstandard2.0\Entity.pdb
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\obj\Debug\netstandard2.0\Entity.dll
+d:\Usuarios\Escritorio\2020-1\2020-2\Programacion web\ParcialBD\Entity\obj\Debug\netstandard2.0\Entity.pdb
